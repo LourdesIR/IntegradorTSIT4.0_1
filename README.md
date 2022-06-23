@@ -11,7 +11,7 @@ La primera es a traves del comando clone:
 
 ```git init```
 
-```git clone https://github.com/ispc-programador2022/a11g2-a11g2.git```
+```git clone https://github.com/LourdesIR/IntegradorTSIT4.0_1.git```
 
 (el link https lo encontras en github en el boton "code" lo copias y lo pegas talcual esta -- termina siempre en .git) Esta manera te crea la carpeta tal cual esta en la rama main
 
@@ -22,7 +22,7 @@ en la terminal que viene en visual estudio nos posicionamos en esa carpeta
 entonces ponemos:
 
 ```git init```
-```git remote add origin https://github.com/ispc-programador2022/a11g2-a11g2.git```
+```git remote add origin https://github.com/LourdesIR/IntegradorTSIT4.0_1.git```
 ```git pull origin main```
 
 
