@@ -1,2 +1,0 @@
-numeros=[8,18,22,78,94]
-print("lista de numeros enteros:",numeros)
