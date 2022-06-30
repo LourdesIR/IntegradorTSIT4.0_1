@@ -1,6 +1,18 @@
 # IntegradorTSIT4.0_1
 ____________________________________________________________________________________________________________________
 
+## El archivo principal 
+
+El archivo principal es el que ha sido nombrado "funciones.py" en el se puede ver el uso integrado de todas las funciones.
+
+## Modalidad de trabajo grupal
+
+Se opto por crear ramas individuales donde cada integrante realizo la funcion/es asignadas en el respectivo issue. Luego
+se envio cada una a pull request y por ultimo se unifico para homogenizar en la rama main, con el archivo principal.
+
+
+____________________________________________________________________________________________________________________
+
 ## Guia básica para usar git y github
 
 ### Primer paso: clonar la rama main 

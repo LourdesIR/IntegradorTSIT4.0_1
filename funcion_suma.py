@@ -8,8 +8,8 @@ def sumar_lista(lista):
     return suma
 
  
-numeros_lista= [58, 27, 248, 77, 12]   
-print(sumar_lista(numeros_lista))
+#numeros_lista= [58, 27, 248, 77, 12]   
+#print(sumar_lista(numeros_lista))
 
 
 
